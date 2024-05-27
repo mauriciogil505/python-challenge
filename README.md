@@ -43,7 +43,7 @@ Results in txt file should be printed to the Analyis folder.
 Use git add ., git commit, and git push to push changes to github respository.
 
 
-## Credits
+# Credits
 Class Recordings, Class Study Materials
 
 
@@ -89,5 +89,5 @@ Winner: Diana DeGette
 -------------------------
 The script will print the results to your terminal and save them in a text file in the "Analysis" folder if done correctly.
 
-## Credits
-XPert Learning Assistant, Class Recordings, Class Material
+# Credits
+Class Recordings, Class Study Materials
