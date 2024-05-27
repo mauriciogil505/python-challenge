@@ -44,7 +44,7 @@ Use git add ., git commit, and git push to push changes to github respository.
 
 
 ## Credits
-XPert Learning Assistant, Class Recordings, Class Material
+Class Recordings, Class Study Materials
 
 
 ## PyPoll: Election Analysis
